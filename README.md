@@ -2,7 +2,7 @@
 
 Esse guia serve como suporte para quem está buscando orientações para transição de carreira para a área de Tecnologia.
 
-https://saibrotech.github.io/guia-transicao-carreira/
+[Guia de cursos e plataformas e ensino](https://saibrotech.github.io/guia-transicao-carreira/guia-cursos-plataformas-ensino.html)
 
 ## Desenvolvimento
 
